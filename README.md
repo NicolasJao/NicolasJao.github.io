@@ -44,7 +44,7 @@ This is one of my oldest story ideas, and it took years before I finally figured
 
 #### "A man searches for his long lost adopted daughter in a city that spans the entire planet full of a million billion people."
 
-As the collection’s titular story, this piece examines the ultimate culmination of societal and urban progress: a world of near-limitless population and its existential implications for the individual. It encapsulates this collection’s central themes, revealing the complexity and interconnectedness of human systems, the cyclical nature of people, and suggesting that humanity remains fundamentally unchanged—whether at the first civilization or the last. The setting of this story also serves as the setting for other stories in this collection.
+As the collection’s titular story, this piece examines the ultimate culmination of societal and urban progress: a world of near-limitless population and its existential implications for the individual. It encapsulates this collection’s central themes, revealing the complexity and interconnectedness of human systems, the cyclical nature of people, and suggests that humanity remains fundamentally unchanged—whether at the first civilization or the last. The setting of this story also serves as the setting for other stories in this collection.
 
 ### Hello Apathy - Sci-Fi - XXXXX words
 
