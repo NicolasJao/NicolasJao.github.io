@@ -16,7 +16,7 @@ I hope you find a story in here that resonates as beautifully with you as it did
 - [The Child Regret Department](Ocean and Other Stories/The Child Regret Department (draft 7).pdf)
 - [Ocean](Ocean and Other Stories/Ocean (draft 4).pdf)
 - Hello Apathy
-- [The Death of Evolution: A Documentary](Ocean and Other Stories/The Death of Evolution A Documentary (draft 1).pdf)
+- [The Death of Evolution: A Documentary](Ocean and Other Stories/The Death of Evolution A Documentary (draft 2).pdf)
 
 *Note: This collection is still a work in progress. Stay tuned for more stories!
 
@@ -52,7 +52,7 @@ As the collection’s titular story, this piece examines the ultimate culminatio
 
 This story is in progress, but stay tuned when it's finished!
 
-### [The Death of Evolution: A Documentary - Sci-Fi/Historical - 21800 words](Ocean and Other Stories/The Death of Evolution A Documentary (draft 1).pdf)
+### [The Death of Evolution: A Documentary - Sci-Fi/Historical - 21800 words](Ocean and Other Stories/The Death of Evolution A Documentary (draft 2).pdf)
 
 #### "A Filipino American geneticist perfects CRISPR technology to give Filipino babies European traits as a response to colonial mentality. In opposition, a Filipino computer scientist perfects AI video generation to create realistic videos of Spanish and American colonial atrocities from ancestral stories of Filipino families in an effort to stop the Filipino CRISPR movement."
 
