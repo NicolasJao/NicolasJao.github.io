@@ -32,7 +32,7 @@ As a student of industrial automation, I have long reflected on the ultimate tra
 
 #### "A race of spiritual aliens visit Earth to teach humans about transcendence as a family struggles to keep their way of life."
 
-This is one of my older story ideas, and its initial draft read more like a philsoophical essay about a religion I made up. Now that it has a plot, I wanted to make it about human resistance in the face of extreme existential adversity. Humanity is fragile in ways we rarely admit—our minds, our bodies, and our sense of what is real. When forced to really think about it, even the most intimate connections betray their own meaning. To live is to confront the profound horror that being human may never have been enough.
+This is one of my older story ideas, and its initial draft read more like a philosophical essay about a religion I made up. Now that it has a plot, I wanted to make it about human resistance in the face of extreme existential adversity. Humanity is fragile in ways we rarely admit—our minds, our bodies, and our sense of what is real. When forced to really think about it, even the most intimate connections betray their own meaning. To live is to confront the profound horror that being human may never have been enough.
 
 ### [The Child Regret Department - Sci-Fi - 5900 words](Ocean and Other Stories/The Child Regret Department (draft 7).pdf)
 
@@ -55,5 +55,6 @@ This story is in progress, but stay tuned when it's finished!
 ### [The Death of Evolution: A Documentary - Sci-Fi/Historical - 21800 words](Ocean and Other Stories/The Death of Evolution A Documentary (draft 2).pdf)
 
 #### "A Filipino American geneticist perfects CRISPR technology to give Filipino babies European traits as a response to colonial mentality. In opposition, a Filipino computer scientist perfects AI video generation to create realistic videos of Spanish and American colonial atrocities from ancestral stories of Filipino families in an effort to stop the Filipino CRISPR movement."
+
 
 Framed as a speculative documentary, this story explores a very real emerging technology and forces us to think about what's important to keep about our species. The two conflicting characters in this story are two sides of the same coin: flawed, burdened with great change, and human. They are both fighting for something they're deeply against and will move the whole world to do it. Set against the Philippines’ unresolved legacy of colonialism and colorism, the narrative asks an unsettling question: if we can edit away pain, prejudice, and identity at the genetic level, what exactly do we lose when evolution finally ends? This is my most personally significant story, and needless to say, I am very proud of this one.
