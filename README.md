@@ -56,5 +56,4 @@ This story is in progress, but stay tuned when it's finished!
 
 #### "A Filipino American geneticist perfects CRISPR technology to give Filipino babies European traits as a response to colonial mentality. In opposition, a Filipino computer scientist perfects AI video generation to create realistic videos of Spanish and American colonial atrocities from ancestral stories of Filipino families in an effort to stop the Filipino CRISPR movement."
 
-
 Framed as a speculative documentary, this story explores a very real emerging technology and forces us to think about what's important to keep about our species. The two conflicting characters in this story are two sides of the same coin: flawed, burdened with great change, and human. They are both fighting for something they're deeply against and will move the whole world to do it. Set against the Philippines’ unresolved legacy of colonialism and colorism, the narrative asks an unsettling question: if we can edit away pain, prejudice, and identity at the genetic level, what exactly do we lose when evolution finally ends? This is my most personally significant story, and needless to say, I am very proud of this one.
