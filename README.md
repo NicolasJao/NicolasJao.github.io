@@ -36,7 +36,7 @@ This is one of my older story ideas, and its initial draft read more like a phil
 
 ### [The Child Regret Department - Sci-Fi - 5900 words](Ocean and Other Stories/The Child Regret Department (draft 7).pdf)
 
-#### "A business in the future uses time travel as a service to separate couples in the past as a deathless solution to abortion."
+#### "A business in the future uses time travel as a service to separate couples in the past for parents who don't want their children anymore."
 
 This is one of my oldest story ideas, and it took years before I finally figured out how I wanted to tell it. There are not enough Filipino stories, even less so Filipino immigrant ones. Using speculative elements and memories from my childhood, I wanted to make a tribute to all the immigrant families struggling with poverty and the sacrifices they make for a better life for their children. They deserve all the thanks in the world.
 
