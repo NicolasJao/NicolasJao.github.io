@@ -46,9 +46,9 @@ This is one of my oldest story ideas, and it took years before I finally figured
 
 As the collection’s titular story, this piece examines the ultimate culmination of societal and urban progress: a world of near-limitless population and its existential implications for the individual. It encapsulates this collection’s central themes, revealing the complexity and interconnectedness of human systems, the cyclical nature of people, and suggests that humanity remains fundamentally unchanged—whether at the first civilization or the last. The setting of this story also serves as the setting for other stories in this collection.
 
-### Hello Apathy - Sci-Fi - XXXXX words
+### Hello Apathy - Sci-Fi/Romance - XXXXX words
 
-#### "Two scientists spend years working on a medical cure for lust to revert back to the innocence of their childhoods."
+#### "Two scientists spend years working on a medical cure for sexual drive to revert back to the innocence of their childhoods."
 
 This story is in progress, but stay tuned when it's finished!
 
