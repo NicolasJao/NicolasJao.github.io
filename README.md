@@ -15,7 +15,7 @@ I hope you find a story in here that resonates as beautifully with you as it did
 - [Oblong Spheroids](Ocean and Other Stories/Oblong Spheroids (draft 9).pdf)
 - [The Child Regret Department](Ocean and Other Stories/The Child Regret Department (draft 7).pdf)
 - [Ocean](Ocean and Other Stories/Ocean (draft 4).pdf)
-- Hello Apathy
+- [Hello Apathy](Ocean and Other Stories/Hello Apathy (draft 2).pdf)
 - [The Death of Evolution: A Documentary](Ocean and Other Stories/The Death of Evolution A Documentary (draft 2).pdf)
 
 *Note: This collection is still a work in progress. Stay tuned for more stories!
@@ -46,11 +46,11 @@ This is one of my oldest story ideas, and it took years before I finally figured
 
 As the collection’s titular story, this piece examines the ultimate culmination of societal and urban progress: a world of near-limitless population and its existential implications for the individual. It encapsulates this collection’s central themes, revealing the complexity and interconnectedness of human systems, the cyclical nature of people, and suggests that humanity remains fundamentally unchanged—whether at the first civilization or the last. The setting of this story also serves as the setting for other stories in this collection.
 
-### Hello Apathy - Sci-Fi/Romance - XXXXX words
+### [Hello Apathy - Sci-Fi/Romance - 33000 words](Ocean and Other Stories/Hello Apathy (draft 2).pdf)
 
 #### "Two scientists spend years working on a medical cure for sexual drive to revert back to the innocence of their childhoods."
 
-This story is in progress, but stay tuned when it's finished!
+Innocence lets us see the world as safe, fair, and purely good. But as we grow older, we go through hard experiences and mistakes, and we see pain that makes us more cynical about what we believe in. We call this wisdom, even though the original feeling may have been worth more. Some thinkers argue the highest form of wisdom isn't cynicism at all, but a recovered, chosen innocence: seeing the flaws and risks clearly, and choosing hope anyway. Lily Chen and Raymond Lin never get the chance to choose it. Terrified of being hurt, they decide the smart move is to make hurt biologically impossible. They form an "instrumental relationship," an idea researched that says true intimacy is built through co-action when two individuals interact for an extended period for a specific goal. Except, every scene where their bond tightens is also a scene where the project becomes more self-defeating. They are their own most important data point, and they keep refusing to write it down. This is the first story I started in this collection. It's also the one I took the longest to finish.
 
 ### [The Death of Evolution: A Documentary - Sci-Fi/Historical - 21800 words](Ocean and Other Stories/The Death of Evolution A Documentary (draft 2).pdf)
 
