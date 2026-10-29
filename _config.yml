@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: Nicolas Jao
 description: |-
-  <img src="images/me.png" alt="Nicolas Jao" style="display:block; width:250px; object-fit:cover; border-radius:50%; margin-bottom:15px;">
+  <style>header h1 { display: none; }</style>
+  <img src="images/me.png" alt="Nicolas Jao" style="display:block; width:200px; max-width:100%; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%; margin-bottom:15px;">
+  <span style="display:block; font-size:2em; font-weight:700; color:#267CB9; margin-bottom:15px;">Nicolas Jao</span>
   I'm a speculative fiction author whose stories often include elements of Chinese or Filipino culture. I was born in Binondo, Manila, the first Chinatown in the world. I am studying for a Bachelor of Technology in Automation Engineering from McMaster University and I live in the Toronto suburbs.
   
   This is a collection of all my finished works. You can read them here. Keep checking this site to stay updated for more works!
