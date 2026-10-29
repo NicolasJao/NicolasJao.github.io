@@ -35,7 +35,7 @@ As a student of industrial automation, I have long reflected on the ultimate tra
 
 This is one of my older story ideas, and its initial draft read more like a philosophical essay about a religion I made up. Now that it has a plot, I wanted to make it about human resistance in the face of extreme existential adversity. Humanity is fragile in ways we rarely admit—our minds, our bodies, and our sense of what is real. When forced to really think about it, even the most intimate connections betray their own meaning. To live is to confront the profound horror that being human may never have been enough.
 
-### [Dreams of Unthought Thoughts](Ocean of Uncertainty and Other Stories/Dreams of Unthought Thoughts (draft 2).pdf)
+### [Dreams of Unthought Thoughts - Sci-Fi/Satire - 5100 words](Ocean of Uncertainty and Other Stories/Dreams of Unthought Thoughts (draft 2).pdf)
 
 #### "The world has too many people and all thoughts have already been thought in the world."
 
